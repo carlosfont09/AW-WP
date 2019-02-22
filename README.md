@@ -11,3 +11,4 @@
 ### 9- Cambiado el tipo de letra del Header, Menu y submenu
 ### 10- Añadido imagenes (ejemplos de cada estilo)
 ### 11- Añadido etiquetas cada vez que el ratón pasa por encima de los titulos del menú y redes sociales
+### 12- Eliminado listas del footer
